@@ -4,13 +4,8 @@ Throughout my time at Multiverse and Verizon, I embarked on an apprenticeship jo
 
 This repository is a collection of the work and learning that I've done throughout my time here at Multiverse / Verizon.
 
-## Overview of Apprenticeship
-- **Host Company**:
-- **Duration**:
-- **Link to Portfolio Website**:
+## Module Projects
+Within this section, you will find a selection of projects that I have diligently worked on in collaboration with others during the various modules of my apprenticeship. Additionally, a README is included alongside these projects, offering comprehensive details and additional information about each of them!
 
-## Portfolio Introduction
-- Who you are
-- Why you do what you do
-- The teams you have worked on
-- Your areas of interest
+## Verizon Projects
+Within this section, I will talk about my experiences as a developer at Verizon, I will provide a comprehensive overview of my experience and contributions during my time at Verizon.
