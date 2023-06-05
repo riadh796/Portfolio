@@ -1,6 +1,6 @@
-# Final Portfolio
+#  Multiverse Final Portfolio
 
-This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
+Throughout my time at Multiverse and Verizon, I embarked on an apprenticeship journey that allowed me to explore and utilize a diverse range of technologies. From initially crafting static web pages using HTML, CSS, and JavaScript, to presently developing complete applications using React and RESTful APIs, it has been an incredibly fruitful and fulfilling year.
 
 ## Overview of Apprenticeship
 - **Host Company**:
