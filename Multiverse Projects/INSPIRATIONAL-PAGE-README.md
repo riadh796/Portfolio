@@ -1,8 +1,10 @@
-## INSPIRATIONAL-PAGE
+# INSPIRATIONAL-PAGE
+## Overview
+During my time at Multiverse, one of the most valuable learning experiences I had was the development of an application that you can add daily tasks, inspirational quotes, and real-time temperature updates on the home page. This project served as an excellent opportunity for me to enhance my design skills and ensure user-friendly navigation throughout the application and allowed me to further refine my abilities in creating a visually appealing interface.
+
 ![198546](https://github.com/riadh796/Portfolio/assets/62479005/7c121657-5ea7-43e2-acc9-e74fb0d65ce9)
 ![98456](https://github.com/riadh796/Portfolio/assets/62479005/9558d74a-8a1b-48ad-9a7a-02e485e0c02d)
 
-During my time at Multiverse, one of the most valuable learning experiences I had was the development of an application that you can add daily tasks, inspirational quotes, and real-time temperature updates on the home page. This project served as an excellent opportunity for me to enhance my design skills and ensure user-friendly navigation throughout the application and allowed me to further refine my abilities in creating a visually appealing interface.
 
 My thought process before starting to build the app was anyone can use it friendly to accomplish his daily task with different features getting daily quotes from API, adding items, background changes daily, and more, I used to build the app react and redux that allow me to manage my app's state in a single place, and also CSS to make sure the layout has done perfectly.
 
