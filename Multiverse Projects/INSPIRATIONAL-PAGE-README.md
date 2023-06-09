@@ -1,4 +1,4 @@
-# INSPIRATIONAL-PAGE
+# INSPIRATIONAL-PAGE  ==>(https://github.com/riadh796/INSPIRATIONAL-PAGE)
 ## Overview
 During my time at Multiverse, one of the most valuable learning experiences I had was the development of an application that you can add daily tasks, inspirational quotes, and real-time temperature updates on the home page. This project served as an excellent opportunity for me to enhance my design skills and ensure user-friendly navigation throughout the application and allowed me to further refine my abilities in creating a visually appealing interface.
 
