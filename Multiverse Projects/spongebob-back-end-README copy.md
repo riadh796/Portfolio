@@ -9,7 +9,7 @@ During the process of creating our app, we encountered numerous obstacles. Some 
 # How to run the app:
 
 ## 1/First install the following pakages:
-npm install , npm install bcryptjs,npm install JWT
+npm install , npm install bcrypt,npm install JWT
 
 ## 2/Run the command:
 npm run server-dev
