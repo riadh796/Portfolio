@@ -2,14 +2,24 @@
 
 During my apprenticeship, I had numerous opportunities to build projects that provided me with a profound understanding of how enterprise apps work. One particular project enabled me to learn and implement robust security measures for applications, ensuring that only authorized users are eligible to access the data.
 
-The idea behind our application is to enable full CRUD functionality for Users and Quotes.I was responsible of Authentication and Authorization using: bcryptjs, JWT Each request must include the appropriate token and user credentials for validation. We have implemented authorization functionality, ensuring that specific endpoints can only be accessed by users with the ADMIN role. To achieve this, we utilized node.js and Sequelize. Additionally, we decided to use SpongeBob quotes as the dataset, and we tested the endpoints using the Thunder Clients extension provided by VS Code.
-
 During the process of creating our app, we encountered numerous obstacles. Some of these challenges were related to time constraints and technical issues. For example, there was an issue where users without admin authority were able to access all functionalities. Another problem we faced was working on the main branch, which caused conflicts and hindered progress. However, we overcame these challenges by scheduling additional meetings outside of our regular training time, extensively testing and making multiple changes to resolve the issues, and adopting a practice of not working simultaneously on the same main branch.
+
+# Competencies
+## JF 3.6
+Can implement a RESTful API
+ 
+I utilized Node.js and Sequelize to develop a RESTful API with various endpoints, enabling the implementation of CRUD operations through GET, POST, PUT, and DELETE HTTP requests. This project has provided me with valuable insights into the purpose and functionality of APIs.
+
+## JF 3.7
+Can implement authentication and authorization to an API
+
+I was tasked with implementing Authentication and Authorization functionalities in the project. For this, I utilized bcryptjs and JWT (JSON Web Tokens). Each request required a valid token and user credentials for validation purposes. We successfully implemented authorization, ensuring that only users with the ADMIN role could access specific endpoints. Through this experience, I gained knowledge about building secure applications that are resilient against potential hacking vulnerabilities.
+
 
 # How to run the app:
 
-## 1/First install the following pakages:
-npm install , npm install bcrypt,npm install JWT
+## 1/First install the following packages:
+npm install, npm install bcrypt,npm install JWT
 
 ## 2/Run the command:
 npm run server-dev
@@ -19,17 +29,17 @@ Nodmon will run because we specified it in the JSON file.
 
 ## 3/Open Thunder Clients extension provided by VS Code:
 
-First thing you need to register a user as admin (just exemple)
+First thing you need to register a user as admin (just example)
 
 ![5555](https://github.com/riadh796/Portfolio/assets/62479005/0d54345e-f98e-4a66-9da9-6d04bd193d42)
 
 Now you can see that you have been successfully registered, and we have obtained a token that allows you to access the quotes.
 
-other way to check using"https://sqliteonline.com/"(pic below)
+another way to check using"https://sqliteonline.com/"(pic below)
 
 ![Capture](https://github.com/riadh796/Portfolio/assets/62479005/7e45f83c-6291-4c04-9456-b71f58f525bf)
 
-Now, to login, you need to enter username and password. Once we verify that the entered credentials match with a registered user, you will be granted access.
+Now, to log in, you need to enter a username and password. Once we verify that the entered credentials match with a registered user, you will be granted access.
 
 ![jhgjk](https://github.com/riadh796/Portfolio/assets/62479005/87d24ac2-a44e-48b3-ba03-cbfc8188d46c)
 
