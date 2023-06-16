@@ -17,7 +17,7 @@ Throughout the app development process, I encountered several challenges that re
 
 Can develop effective user interfaces
 
-  Using CSS properties ensures precise component positioning and achieves the desired color when hovering over different elements on the screen. Additionally, I created separate CSS files for each component to enhance code understanding for anyone reviewing it. Another feature I implemented was setting the background color of the research bar to transparent, providing a richer user experience. Ultimately, these efforts led to achieving the desired layout and overcoming the challenges at hand.
+  Using CSS properties ensures precise component positioning and achieves the desired color when hovering over different elements on the screen. Additionally, I created separate CSS files for each component to enhance code understanding for anyone reviewing it. Another feature I implemented was setting the background color of the input bar to transparent, providing a richer user experience. Ultimately, these efforts led to achieving the desired layout and overcoming the challenges at hand.
 
 ## JF 2.7
 Effectively manages state for complex User Interfaces
